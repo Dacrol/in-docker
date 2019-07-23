@@ -1,6 +1,6 @@
 {
   "name": "@dacrol/in-docker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if you're in a container",
   "main": "in-docker.js",
   "repository": "git@github.com:Dacrol/in-docker.git",
